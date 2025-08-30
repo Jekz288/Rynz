@@ -1,0 +1,16 @@
+{
+  "name": "tanjiro-bot",
+  "version": "1.0.0",
+  "description": "Tanjiro Bot Stable Baileys with Pairing Fix",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rynzz",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.1"
+  }
+}
