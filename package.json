@@ -1,7 +1,7 @@
 {
   "name": "tanjiro-bot",
   "version": "1.0.0",
-  "description": "Tanjiro Bot Stable Baileys with Pairing Fix",
+  "description": "WhatsApp Bot Stable Baileys with Pairing Fix",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -10,11 +10,13 @@
   "author": "Rynzz",
   "license": "MIT",
   "dependencies": {
-  "@whiskeysockets/baileys": "^6.7.8",
-  "pino": "^9.0.0",
-  "chalk": "^5.3.0",
-  "figlet": "^1.7.0",
-  "file-type": "^18.5.0",
-  "axios": "^1.6.7",
-  "yargs": "^17.7.2"
+    "@whiskeysockets/baileys": "github:Jekz288/Rynz",
+    "pino": "^9.0.0",
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0",
+    "file-type": "^18.5.0",
+    "axios": "^1.6.7",
+    "yargs": "^17.7.2",
+    "dotenv": "^16.3.1"
+  }
 }
